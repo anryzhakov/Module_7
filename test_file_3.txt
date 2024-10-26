@@ -1,0 +1,3 @@
+It's any small text for task
+Используйте его для самопроверки.
+text text
